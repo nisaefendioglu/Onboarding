@@ -1,6 +1,10 @@
 buildscript {
     ext {
-        compose_version = '1.2.0'
+        compose_version = '1.4.2'
+        accompanist_version = '0.24.2-alpha'
+    }
+    dependencies {
+        classpath "com.google.dagger:hilt-android-gradle-plugin:2.40.5"
     }
 }// Top-level build file where you can add configuration options common to all sub-projects/modules.
 plugins {
