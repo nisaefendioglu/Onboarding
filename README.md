@@ -1,4 +1,4 @@
-# Onboarding App with Jetpack Compose and Airbnb Lottie
+## Onboarding App with Jetpack Compose and Airbnb Lottie
 
 This is a simple onboarding app that uses Jetpack Compose and Airbnb Lottie animation library.
 
@@ -16,7 +16,7 @@ This is a simple onboarding app that uses Jetpack Compose and Airbnb Lottie anim
 Clone the repository and open it in Android Studio Arctic Fox or later.
 
 ```
-git clone https://github.com/nisaefendioglu/onboarding-app.git
+git clone https://github.com/nisaefendioglu/onboarding.git
 ```
 
 ## Usage
