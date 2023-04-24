@@ -1,4 +1,4 @@
-package com.nisaefendioglu.onboarding
+package com.nisaefendioglu.onboarding.data
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
